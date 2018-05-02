@@ -1,3 +1,3 @@
-flask
+django
 numpy
-flask-socketio
+django-socketio
